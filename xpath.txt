@@ -1,0 +1,5 @@
+1. //p[contains(text(), 'Lorem ')]
+2. //ol[@id='notesList']
+3. //input[@class='button']
+4. //div/p
+5. //ol/li[3]
